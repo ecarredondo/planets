@@ -8,3 +8,4 @@ Here is a list of characteristics about mars:
 * far away
 * it has robots -> NASA rovers
 * God of war
+* 4th planet from the Sun
